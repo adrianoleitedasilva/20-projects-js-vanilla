@@ -14,7 +14,7 @@ Este repositório reúne aplicações e mini projetos que exploram conceitos ess
 ✨ Lógica de programação
 ✨ Interatividade e UX básica
 
-🚀 Objetivo do Repositório
+### 🚀 Objetivo do Repositório
 
 Este repo foi criado para:
 
@@ -24,7 +24,7 @@ Este repo foi criado para:
 - ✅ Demonstrar evolução técnica
 - ✅ Apoiar iniciantes em JS
 
-🧩 Projetos incluídos
+### 🧩 Projetos incluídos
 
 Alguns exemplos presentes na coleção:
 
@@ -42,14 +42,14 @@ Alguns exemplos presentes na coleção:
 - 🎯 Hangman
 - (e outros)
 
-🛠️ Tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - APIs do navegador
 
-🎯 Público-alvo
+### 🎯 Público-alvo
 
 Este repositório é útil para:
 
@@ -58,7 +58,7 @@ Este repositório é útil para:
 - 📚 Quem deseja revisar fundamentos
 - 💼 Composição de portfólio
 
-💡 Filosofia
+### 💡 Filosofia
 
 - Sem frameworks.
 - Sem dependências pesadas.
